@@ -21,7 +21,7 @@ These programs help in improving problem-solving ability, which is essential for
 * Sum of Elements
 * Number Swapping
 * Range-Based Calculations
-* * Divisibility Checks
+* Divisibility Checks
 
  🔤 String Handling
 
